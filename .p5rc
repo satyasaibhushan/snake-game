@@ -1,0 +1,9 @@
+{
+  "name": "collection",
+  "projects": [
+    "0-paint",
+    "1-sine",
+    "2-snake",
+    "r"
+  ]
+}
